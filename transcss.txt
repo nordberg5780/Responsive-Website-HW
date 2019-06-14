@@ -1,0 +1,150 @@
+.cry-img {
+
+	height: 100px;
+	width: 100px;
+	
+}
+
+.back {
+
+	background-color: transparent;
+	height: auto;
+	width: auto;
+	float: left;
+	margin-right: 20px;
+	border-style: solid;
+	border-width: 0.5px;
+	border-color: transparent;
+}
+
+body {
+	
+	/* background-image: url("assets/images/congruent_pentagon.png"); */
+	height:auto;
+	width: auto;
+}
+	
+
+#title {
+
+	padding: 20px;
+	/* background-color: rgb(0, 0, 0); */
+	color: white;
+	float: left;
+	/* border-style: solid;
+	border-width: 0.5px;
+	border-color: grey; */
+}
+
+#instr-back {
+
+	/* background-color: rgb(0, 0, 0); */
+	float: left;
+	/* border-style: solid;
+	border-width: 0.5px;
+	border-color: grey; */
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 650px;
+}
+
+#instructions {
+
+	font-family: arial;
+	color: rgb(255, 255, 255);
+	font-weight: bold;
+}
+
+#target-back  {
+
+	background-color: transparent;
+	float: left;
+	/* border-style: solid;
+	border-width: 0.5px; */
+	/* border-color: grey; */
+	padding-left: 120px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+
+}
+
+#counter-back  {
+
+	background-color: transparent;
+	float: left;
+	margin-left: 40px;
+	/* border-style: solid;
+	border-width: 0.5px;
+	border-color: grey; */
+	padding-left: 10px;
+	padding-right: 10px;
+
+
+}
+
+#score {
+
+	background-color: transparent;
+	float: left;
+	/* border-style: solid;
+	border-width: 0.5px;
+	border-color: grey; */
+	padding-left: 10px;
+	padding-right: 10px;
+	
+
+}
+
+#curScore {
+
+	/* padding: 10px;
+	padding-right: auto;
+	padding-bottom: 7x;
+	background-color: transparent;
+	float: left;
+	/* border-style: solid;
+	border-width: 0.5px; */
+	/* border-color: grey; */
+	margin: auto;
+	color: white;
+	font-family: arial;
+	font-size: 85px;
+	
+
+}
+
+#numGuess {
+
+	color: rgb(255, 255, 255);
+	font-family: arial;
+	font-weight: bold;
+}
+
+#targetNumber {
+
+	color: rgb(255, 255, 255);
+	font-size: 65px;
+}
+
+#wins {
+
+	color: rgb(255, 255, 255);
+	font-size: 30px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+#losses {
+
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	font-family: arial;
+}
+
+#score-txt {
+
+color: white;
+font-weight: bold;
+font-family: arial;
+
+}
